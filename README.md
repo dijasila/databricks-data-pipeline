@@ -9,7 +9,7 @@ This repository demonstrates how to read, manipulate, engineer, and visualize da
 - **src/**: Python scripts for reading, engineering, and visualizing data.
 - **images/**: Folder for images generated from visualizations.
 - **README.md**: Project description and instructions.
-![repo structure](/scratch/re62/sxa587/databricks-data-pipeline/images/rep_struct.png)
+![repo structure](https://raw.githubusercontent.com/your-username/repository-name/master/image/rep_struct.png)
 ## Steps
 
 1. **Data Reading**: We use PySpark to read data from Databricks into a Spark DataFrame.
