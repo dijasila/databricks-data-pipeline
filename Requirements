@@ -1,0 +1,10 @@
+
+### 7. **Commit the Changes and Push to GitHub**
+
+Once all the files are created and organized, follow these steps to upload them to GitHub:
+
+1. **Initialize Git and add all files**:
+   
+   ```bash
+   git init
+   git add .
